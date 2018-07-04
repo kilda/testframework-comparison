@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration packages="com.telstra.kilda.common">
+
+    <loggers>
+        <root level="ERROR">
+        </root>
+    </loggers>
+
+</configuration>
